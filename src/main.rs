@@ -5,5 +5,6 @@ use problem_1_10::solutions;
 fn main() {
     println!("Solutions...");
 
-    solutions::problem_1();
+    //solutions::problem_1();
+    solutions::problem_2();
 }
